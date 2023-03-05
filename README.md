@@ -1,4 +1,4 @@
-# vuetify-todolist
+# vuetify-image-gallery
 
 ## Project setup
 ```
