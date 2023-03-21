@@ -25,6 +25,7 @@ const copyUrl = async (url) => {
                             </div>
                         </template>
                     </v-img>
+                    <span>gitkraken</span>
                 </v-card>
             </v-hover>
         </v-col>
